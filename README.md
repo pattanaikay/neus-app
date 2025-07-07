@@ -1,6 +1,6 @@
 # 🧠 Neus App – Real-Time Emotion Support App
 
-**ANeus App** is a cross-platform mobile application that provides users with real-time emotional support through interactive tools like breathing exercises, journaling, and grounding techniques. The app uses a **pretrained deep learning model** to analyze text input and classify the user's emotional state, offering context-aware suggestions to help them cope.
+**Neus App** is a cross-platform mobile application that provides users with real-time emotional support through interactive tools like breathing exercises, journaling, and grounding techniques. The app uses a **pretrained deep learning model** to analyze text input and classify the user's emotional state, offering context-aware suggestions to help them cope.
 
 ---
 
